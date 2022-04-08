@@ -1,9 +1,8 @@
 ### Olá! Meu nome é Luiz Gustavo
 
 
-- 🔭 Atualmente focado e apaixonado pelo Backend!
-- 🌱 Conhecimentos em Html | Css | Js ...
-- 🤓 Estudando C# | .NET | MongoDB ...
+- 🔭 Focado em Backend, mas sempre procurando entender um pouco mais do Front.
+- 🤓 Estudando C# | .NET | MongoDB...
 - 👨‍💻 Faço ADS na Estácio.
 ##
 <br>
