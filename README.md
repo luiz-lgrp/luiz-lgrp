@@ -1,4 +1,4 @@
-### Olá! Meu nome é Luiz Gustavo
+## Olá! Me chamo Luiz Gustavo
 
 
 - 🔭 Focado em Backend, mas sempre procurando entender um pouco mais do Front.
