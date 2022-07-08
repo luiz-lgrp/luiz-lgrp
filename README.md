@@ -1,7 +1,7 @@
 ## Olá! Me chamo Luiz Gustavo
 
 
-<h4>- 🔭 Focado em Backend, mas sempre procurando entender um pouco mais do Front.</h4>
+<h4>- 🔭 Focado no Backend, mas sempre procurando entender um pouco mais do Front.</h4>
 <h4>- 🤓 Estudando C# | .NET | MongoDB...</h4>
 <h4>- 👨‍💻 Faço ADS na Estácio.</h4>
 
