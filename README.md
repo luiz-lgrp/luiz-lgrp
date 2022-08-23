@@ -13,7 +13,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=luiz-lgrp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
   <br>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-lgrp&layout=compact&langs_count=16&theme=algolia">
-</div>
+</div>-->
  
  <br>
   <div style="display: inline_block">  <br>
@@ -26,7 +26,7 @@
   <img align="center" alt="Angular" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
    <img align="center" alt="git" height="60" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="github" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
-</div> -->
+</div> 
   
   ##
   <br>
