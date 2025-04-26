@@ -3,7 +3,7 @@
 
 <h4>- Focado no Backend, mas sempre procurando entender um pouco mais do Front.</h4>
 <h4>- C# || .NET || ASP.NET CORE </h4>
-<h4>- Faço ADS na Universidade Estácio.</h4>
+<h4>- Formado em ADS na Universidade Estácio.</h4>
 
 
 
